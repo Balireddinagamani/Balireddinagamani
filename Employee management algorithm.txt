@@ -1,0 +1,9 @@
+Employee management algorithm
+
+step1:start
+step2:give a task to employee
+step3:performance of the employee
+step4:the work done by employee is relavant task or not
+step5:identify the effort
+step6:if the employee permance is good and give appreciate and employee performance is not good then make a panishment remove the job
+step7:stop
