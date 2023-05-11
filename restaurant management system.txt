@@ -1,0 +1,10 @@
+restaurant management system
+
+
+step1:start
+step2:search for restaurant
+step3:select manu item
+step4:order the food 
+step5:bill payment
+step6:stop
+

@@ -1,0 +1,14 @@
+kitchen management system algorithm
+
+omelette receipe
+
+step1:start
+step2:to take ingredients like two eggs ,onions,tomatoes,green chillies,salt,water,oil
+step3:beat the eggs well in a bowl with a fork
+step4:add to ingredients 
+step5:oli in frying pan on a heat
+step6:the eggs into the pan,tilt to spread the batter till the sides 
+step7:two side are brown colour
+step8: remove the omelette from the pan
+step:stop
+

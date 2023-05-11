@@ -1,0 +1,16 @@
+ATM taransactions algorithm
+
+step1:start
+step2:enter the card
+step3:check if card is valid
+step4:if card is invalid,return the card
+step5:enter the language
+step6:enter pin
+step7:check the password
+step8:passis incorrect and repeat process step 6
+step9:password is correct
+step10:select account type
+step11:enter the amount
+step12:collect the amount
+step13:then return the card backs 
+

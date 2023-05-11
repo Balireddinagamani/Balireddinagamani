@@ -1,0 +1,9 @@
+order management systemt algorithm
+
+step1:start 
+step2:select the item 
+step3: order the place
+step4:item cost is pay by using phone pay or google pay etc. 
+step5: payment is done .if you cancel the order later backup the process. cancel the order
+step6:done the payment then order is deliver
+step7:stop  
